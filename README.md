@@ -4,6 +4,12 @@
 
 <h2>Description</h2>
 The project aimed to enhance recruitment performance tracking and decision-making by developing a suite of interactive Power BI dashboards. These dashboards pull centralized candidate data from Google Sheets (2024–2025 register) to provide real-time insights for recruiting managers. The solution delivers high-level overviews and detailed performance analytics for interviewers and sourcers, supporting better follow-up, visibility, and accountability across the hiring process.
+
+This dashboard is designed to give everyone in the company, particularly hiring managers, a clear understanding of the recruitment process, without needing to constantly request information from HR or the recruitment team.
+
+By tracking Average Days to Hire, which measures the average number of days it takes a single candidate to move through the entire process, hiring managers can set transparent expectations to potential candidates. Similarly, tracking Average Days to Fill, which measures the average number of days it takes the company to begin recruiting and fill a role, the HR team can propose realistic timeframes to management, so they can better plan resource allocation, and begin recruiting at the right time.
+
+The dashboard also helps to set expectations on the cost of recruitment, as well as the most productive places to focus hiring efforts. Finally, the dashboard provides a live update on the number of candidates who have applied and progress to each stage of the hiring process. This is a helpful way to keep everyone up to date with how open positions are progressing, without requiring colleagues to request this information manually.
 <br />
 
 <h2>Tools & Technologies Used</h2>
