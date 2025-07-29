@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-The project aimed to enhance recruitment performance tracking and decision-making by developing a suite of interactive Power BI dashboards. These dashboards pull centralized candidate data from Google Sheets (2024–2025 register) and integrate with CRM systems to provide real-time insights for recruiting managers. The solution delivers high-level overviews and detailed performance analytics for interviewers and sourcers, supporting better follow-up, visibility, and accountability across the hiring process.
+The project aimed to enhance recruitment performance tracking and decision-making by developing a suite of interactive Power BI dashboards. These dashboards pull centralized candidate data from Google Sheets (2024–2025 register) to provide real-time insights for recruiting managers. The solution delivers high-level overviews and detailed performance analytics for interviewers and sourcers, supporting better follow-up, visibility, and accountability across the hiring process.
 <br />
 
 <h2>Tools & Technologies Used</h2>
