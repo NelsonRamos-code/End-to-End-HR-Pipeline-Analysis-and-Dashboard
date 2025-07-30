@@ -72,9 +72,11 @@ STEP 5 - KPI & Visual Design<br/>
 
 <h2>Final Outcome</h2>
 
-- <b>Power BI</b>
-- <b>SQL</b>
-- <b>Excel / Google Sheets</b>
+- <b>The final dashboard offers real-time, interactive visibility into HR interviewer performance, sourcer contributions, and candidate progression.</b>
+- <b>Enables HR leaders to identify bottlenecks, track KPIs over time, and assess performance per interviewer and quarter.</b>
+- <b>Designed to support informed decision-making and improve recruitment operations.
+
+</b>
     
 <img src="https://i.imgur.com/A8xEuww.png"/>
 <br />
