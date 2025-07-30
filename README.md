@@ -77,7 +77,33 @@ STEP 5 - KPI & Visual Design<br/>
 - <b>Designed to support informed decision-making and improve recruitment operations.
 
 </b>
-    
-<img src="https://i.imgur.com/A8xEuww.png"/>
+
+<p align="center">
+Recruiting Overview<br/>
+<img src="https://i.imgur.com/ndoX7Yc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+Search Report<br/>
+<img src="https://i.imgur.com/IZyclfA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+HR Interview Insights <br/>
+<img src="https://i.imgur.com/PuFcehz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+Technical Interview Analytics <br/>
+<img src="https://i.imgur.com/PuFcehz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+Sourcing Analytics <br/>
+<img src="https://i.imgur.com/PuFcehz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
