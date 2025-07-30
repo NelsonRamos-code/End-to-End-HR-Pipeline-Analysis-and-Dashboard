@@ -21,8 +21,9 @@ The dashboard also helps to set expectations on the cost of recruitment, as well
 <h2>Project walk-through</h2>
 
 <p align="center">
-STEP 1 – ETL Process in SQL Server<br/>
+STEP 1 – Requirement Gathering & Planning<br/>
 <p align="left">
+    1. Review user stories to define dashboard objectives and key KPIs
 <br /> So the first step in churn analysis is to load the data from the source file (https://github.com/NelsonRamos-code/Churn-Analysis-Project/blob/main/Customer_Data.csv). For this purpose I used Microsoft SQL server because it is a widely used solution across the industry and also because a full-fledged Database System is better at handling recurring data loads and maintaining data integrity compared to an excel file.
 <br />
 
