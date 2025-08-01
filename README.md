@@ -136,7 +136,20 @@ Finally, the report also includes a candidate progress tracker, listing each can
 <br />
 
 <p align="center">
-Technical Interview Analytics <br/>
+<p align="center">
+  <h1 align="center">Tech Interview Analytics Report</h1>
+</p>
+
+This tech interview report provides a focused analysis of the technical evaluation phase in the recruitment process, with filtering capabilities by HR interviewer, tech interviewer, and other standard parameters. It delivers key metrics to assess the efficiency and effectiveness of technical screenings, including tech approval rate, average days to tech interview (time elapsed between HR and tech interviews), and interviewer-specific contributions.
+
+The report opens with core tech-specific metrics, such as the total number of tech interviews conducted, the tech approval rate (percentage of candidates passing technical evaluations), and the average days to tech interview, which highlights bottlenecks in scheduling. These KPIs help identify delays and optimize the handoff between HR and technical teams.
+
+A pie chart visualizes the contribution of each HR interviewer in advancing candidates to tech interviews, showing the proportion of candidates referred by recruiters. This reveals which HR professionals are most effective at qualifying candidates for technical rounds. Another pie chart breaks down the number of tech interviews conducted by each technical interviewer, providing insight into workload distribution and specialization.
+
+A line chart tracks tech interview activity over time, segmented by the HR interviewer responsible for initiating the process. This helps correlate HR recruiter performance with downstream tech interview volume, ensuring accountability and identifying trends—such as spikes in referrals from specific recruiters.
+
+Finally, the report includes a candidate progress tracker, listing each candidate’s current stage (e.g., Tech Interviewed, Pending Client Review), assigned HR interviewer, tech interviewer, and sourcer. This table ensures end-to-end visibility, enabling teams to monitor pipeline efficiency and interviewer performance.
+ <p align="center">
 <img src="https://i.imgur.com/lOvaOel.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
