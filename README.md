@@ -81,11 +81,26 @@ Each dashboard highlights the key performance indicators (KPIs) and the most rel
 </b>
 
 <p align="left">
-NOTE:<br/>
-    <br />Due to data sensitivity, the metrics, names, and client information displayed on the dashboard have been blurred.<br />
+NOTE: Due to data sensitivity, the metrics, names, and client information displayed on the dashboard have been blurred.
 
 <p align="center">
-Recruiting Overview<br/>
+  <h1 align="center">Recruiting Overview</h1>
+</p>
+
+This page serves as the **overview section** of the recruiting analytics report. It highlights the most important KPIs in the hiring pipeline, including:
+
+- **Number of HR interviews conducted**  
+- **Total hires**  
+- **Number of technical interviews**  
+- **Number of approved technical interviews**
+
+In addition to these summary metrics, the dashboard includes several visualizations for deeper insights:
+
+- **Pie Chart:** Displays the proportion of candidates at each stage of the process (HR Interviewed, Tech Interviewed, Client Stage, Hired).  
+- **Bar Charts:** Show the distribution of HR interviews by search/project and the number of technical interviews completed by search.  
+- **Search Pipeline Overview Table:** Summarizes candidate flow for each active search, tracking counts across every stage (HRs, Techs, Bios Posted, Client Stage, and Hires). This allows comparison of performance and progress across different roles.  
+- **Line Chart:** Visualizes HR interview activity over time, illustrating volume trends and growth in interviews from 2024 to 2025.
+ <p align="center">
 <img src="https://i.imgur.com/tf04hUi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
