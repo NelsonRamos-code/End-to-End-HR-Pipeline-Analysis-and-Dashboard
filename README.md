@@ -78,6 +78,10 @@ STEP 5 - KPI & Visual Design<br/>
 
 </b>
 
+<p align="left">
+NOTE:<br/>
+    <br />Due to data sensitivity, the metrics, names, and client information displayed on the dashboard have been blurred.<br />
+
 <p align="center">
 Recruiting Overview<br/>
 <img src="https://i.imgur.com/tf04hUi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
