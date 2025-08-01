@@ -66,7 +66,9 @@ STEP 4 - Data Cleaning & Feature Engineering in Power BI<br/>
 <p align="center">
 STEP 5 - KPI & Visual Design<br/>
 <p align="left">
-    <br />Built a visually cohesive dashboard titled “HR Interview Insights”, providing overall metrics, Total HRs, Total Hires, Tech Numbers and Approval Rates<br />
+    <br />Several dashboards were developed to provide comprehensive metrics and visibility across each stage of the recruitment process. These include dedicated views for sourcing, HR interviews, technical stages, overview pages, and specific search reports.
+
+Each dashboard highlights the key performance indicators (KPIs) and the most relevant metrics for its respective stage, enabling stakeholders to track progress, identify bottlenecks, and make data-driven decisions more effectively.<br />
     <br />Dynamic filtering by Quarter, Year, Interviewer, Client, and Search Name.<br />
     <br />Key visuals: Pie charts, bar graphs, trend lines, and progress trackers.<br />
 
