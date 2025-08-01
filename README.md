@@ -117,7 +117,20 @@ Finally, a candidate progress tracker lists each candidate in the pipeline, deta
 <br />
 
 <p align="center">
-HR Interview Insights <br/>
+<p align="center">
+  <h1 align="center">HR interview report</h1>
+</p>
+
+This specialized HR interview report provides a focused analysis of recruitment activities, filtered by HR interviewer along with other standard filtering options. It highlights key metrics tailored to assess HR interview performance, including HR approval rate, interviewer contributions, and workload distribution.
+
+The report begins with core HR-specific metrics, such as the total number of HR interviews conducted, the HR approval rate (percentage of candidates advancing past HR screening), and the number of bios presented to the client (profiles submitted after tech approval). These KPIs help measure the efficiency and effectiveness of HR screenings.
+
+A pie chart breaks down the contribution of each HR interviewer, showing the proportion of interviews handled by interviewers. This visualization helps identify top performers and balance workloads. Another pie chart displays the bios presented per interviewer, indicating how many candidates each HR professional successfully moved forward to the client review stage.
+
+A line chart tracks HR interview activity over time, segmented by interviewer. This allows hiring managers to monitor individual recruiter workloads, identify peak periods, and ensure equitable task distribution. For example, spikes in interviews for a specific recruiter may signal the need for workload adjustments.
+
+Finally, the report also includes a candidate progress tracker, listing each candidate’s current stage (e.g., HR Interviewed, Tech Interviewed), assigned HR interviewer, and source. This table ensures visibility into the pipeline, helping teams track candidate flow and interviewer accountability.
+ <p align="center">
 <img src="https://i.imgur.com/GBcQ3s1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
