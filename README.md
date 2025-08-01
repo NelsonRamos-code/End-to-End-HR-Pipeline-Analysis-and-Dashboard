@@ -98,7 +98,20 @@ In addition to these summary metrics, the dashboard includes several visualizati
 <br />
 
 <p align="center">
-Search Report<br/>
+<p align="center">
+  <h1 align="center">Search Report</h1>
+</p>
+
+This explanatory **search report** provides a detailed breakdown of a specific recruitment search, offering key metrics and visualizations to track hiring progress. It can be accessed by clicking the "Click for Search Info" link on the overview page or by selecting the corresponding search in the overview pipeline. The report highlights essential KPIs, including the total number of HR interviews, technical interviews conducted, and bios submitted to the client, which represent candidate profiles sent for review.
+
+In addition to these summary metrics, this dashboard also includes several visualizations for deeper insights:
+
+A pie chart illustrates the distribution of candidates across different stages. Additionally, a bar chart breaks down the number of technical interviews handled by each interviewer.
+
+The report also includes a line chart tracking HR interview activity over time, displaying yearly, monthly or daily trends. This helps identify peak hiring periods and assess recruiter workload.
+
+Finally, a candidate progress tracker lists each candidate in the pipeline, detailing their current stage (e.g., HR Interviewed, Tech Interviewed), assigned interviewer, and source. This table ensures transparency in tracking individual candidate journeys and helps recruiters manage the pipeline efficiently.
+ <p align="center">
 <img src="https://i.imgur.com/q4Qzfgb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
