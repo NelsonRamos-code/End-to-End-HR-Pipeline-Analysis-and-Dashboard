@@ -31,42 +31,34 @@ The dashboard also helps to set expectations on the cost of recruitment, as well
 
 <h2>Project walk-through</h2>
 
-<p align="center">
-STEP 1 – Data Extraction<br/>
-<p align="left">
-    <br />Source: Centralized candidate tracking register stored in Google Sheets (2024–2025).<br />
-    <br /> Due to data sensitivity, the original Google Sheets source cannot be shared.<br />
-    <br />Data included multiple attributes across the recruitment process—interview stages, interviewer names, sourcing information, and timelines.<br />
+## Step 1 – Data Extraction
 
-<p align="center">
-STEP 2 - Data Cleansing in SQL<br/>
-<p align="left">
-    <br />Loaded the dataset into SQL Server to clean the data before analysis.<br />
-    <br />Objective: Remove unnecessary blank rows and ensure structural consistency<br />
-    <br />Query Used:<br />
-    <br />This eliminated entries with missing scheduling data which were erroneously included due to formatting issues in Google Sheets.<br />
+**Source:** Centralized candidate tracking register stored in Google Sheets (2024–2025).  
+Due to data sensitivity, the original Google Sheets source cannot be shared.  
+Data included multiple attributes across the recruitment process—interview stages, interviewer names, sourcing information, and timelines.  
+
+## Step 2 – Data Cleansing in SQL
+
+Loaded the dataset into SQL Server to clean the data before analysis.  
+**Objective:** Remove unnecessary blank rows and ensure structural consistency.  
+**Query Used:**  
+This eliminated entries with missing scheduling data which were erroneously included due to formatting issues in Google Sheets.
 
 ```sql
 DELETE FROM [dbo].[HR Scheduling Status - Section B CSV]
 WHERE [HR_SCHEDULING_STATUS] IS NULL
 ```
-<p align="center">
-STEP 3 - Data Modeling in Power BI<br/>
-<p align="left">
-    <br />Imported the cleansed dataset from SQL into Power BI.<br />
-    <br />Built a structured data model, including: Date tables for time-based filtering and Relationships across candidate status, interview scheduling, and performance metrics<br />
+## Step 3 – Data Modeling in Power BI
+ <br />Imported the cleansed dataset from SQL into Power BI.<br />
+Built a structured data model, including: Date tables for time-based filtering and Relationships across candidate status, interview scheduling, and performance metrics
 
-<p align="center">
-STEP 4 - Data Cleaning & Feature Engineering in Power BI<br/>
-<p align="left">
-    <br />Removed any residual blank fields and cleaned formatting inconsistencies.<br />
-    <br />Separated and standardized data columns (e.g., names, dates, and categorical stages).<br />
-    <br />Engineered new metrics and fields using DAX (Data Analysis Expressions), such as: Average Days to Present Bio, HR Approval Rate, Interview Activity by Interviewer and Pipeline Volume by Quarter<br />
+## Step 4 – Data Cleaning & Feature Engineering in Power BI
+- <b>Removed any residual blank fields and cleaned formatting inconsistencies.</b>
+- <b>Separated and standardized data columns (e.g., names, dates, and categorical stages).</b>
+- <b>Engineered new metrics and fields using DAX (Data Analysis Expressions), such as: Average Days to Present Bio, HR Approval Rate, Interview Activity by Interviewer and Pipeline Volume by Quarter</b>  
 
-<p align="center">
-STEP 5 - KPI & Visual Design<br/>
-<p align="left">
-    <br />Several dashboards were developed to provide comprehensive metrics and visibility across each stage of the recruitment process. These include dedicated views for sourcing, HR interviews, technical stages, overview pages, and specific search reports.
+## Step 5 – KPI & Visual Design
+Several dashboards were developed to provide comprehensive metrics and visibility across each stage of the recruitment process. These include dedicated views for sourcing, HR interviews, technical stages, overview pages, and specific search reports.
 
 Each dashboard highlights the key performance indicators (KPIs) and the most relevant metrics for its respective stage, enabling stakeholders to track progress, identify bottlenecks, and make data-driven decisions more effectively.<br />
     <br />Dynamic filtering by Quarter, Year, Interviewer, Client, and Search Name.<br />
